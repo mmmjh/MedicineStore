@@ -1,14 +1,14 @@
- <div>
-   <p>本系统基于MVC模式，使用HTML+CSS+servelet技术，使用ORACLE数据库，实现了基本信息的增删改查以及页面可视化展示。</p>
-   <p>本系统在订单管理功能上是一个进销存模式，可适用于二次开发。</p>
-   <h3>登录页面：</h3>
-  <img  src="/first.png" style="width:50%;" >
-    <h3>功能栏：</h3>
-  <img  src="image/dd.png" >
-    <h3>首页：</h3>
-  <img  src="image/second.png" style="width:50%">
-    <h3>盈利中心：</h3>
-  <img  src="image/cc.png"style="width:50%" >
-  <h3>订单中心：</h3>
-  <img  src="image/ee.png" style="width:50%">
-   </div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/first.png" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
